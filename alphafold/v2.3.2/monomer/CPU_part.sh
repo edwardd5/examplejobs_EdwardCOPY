@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --account=pXXXX  ## YOUR ACCOUNT pXXXX or bXXXX
+#SBATCH --account=p13294  ## YOUR ACCOUNT pXXXX or bXXXX
 #SBATCH --partition=normal  ### PARTITION (buyin, short, normal, etc)
 #SBATCH --nodes=1 ## how many computers do you need
 #SBATCH --ntasks-per-node=12 ## how many cpus or processors do you need on each computer
